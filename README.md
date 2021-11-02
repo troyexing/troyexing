@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @troyexing
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 如何联系我...email-troyexing@QQ.com
+<!---
+troyexing/troyexing 是一个✨特殊的✨存储库，因为它的`README.md`（这个文件）出现在你的GitHub个人资料中。
+You can click the Preview link to take a look at your changes.
+--->
